@@ -1,0 +1,13 @@
+user_id,username,department,login_time,login_hour,location,flag_reason,risk_level
+U002,bob,Finance,2024-01-15 03:14:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U004,dave,IT,2024-01-15 03:02:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U003,carol,Engineering,2024-01-16 03:47:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U007,grace,IT,2024-01-16 03:05:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U008,henry,Finance,2024-01-17 03:55:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U002,bob,Finance,2024-01-17 03:10:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U010,jack,IT,2024-01-18 03:33:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U007,grace,IT,2024-01-18 03:22:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U004,dave,IT,2024-01-19 03:01:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U002,bob,Finance,2024-01-19 03:58:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U010,jack,IT,2024-01-20 03:12:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
+U007,grace,IT,2024-01-20 03:44:00,3,Remote,Unauthorized 3 AM access to Energy Security System,HIGH
